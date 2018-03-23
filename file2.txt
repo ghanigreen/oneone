@@ -1,5 +1,0 @@
-i am editing file2
-EDIT = BY GHANI
-
-EDIT -SAVED BY ARAVIND
-
