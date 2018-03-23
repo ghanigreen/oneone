@@ -1,1 +1,3 @@
 i am editing file2
+
+EDIT = BY GHANI
